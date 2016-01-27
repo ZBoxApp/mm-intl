@@ -1,0 +1,12 @@
+{
+  "name": "mm-intl",
+  "version": "1.0.0",
+  "description": "Rect-intl wrapper",
+  "private": false,
+  "keywords": [
+    "i18n",
+    "mattermost"
+  ],
+  "author": "Elias Nahum <elias@zboxapp.com>",
+  "license": "MIT"
+}
